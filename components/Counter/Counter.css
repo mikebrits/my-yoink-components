@@ -1,0 +1,10 @@
+.counter__heading {
+    color: cyan;
+}
+
+.counter__button {
+    padding: 16px 24px;
+    background: transparent;
+    border: 1px solid cyan;
+    color: cyan;
+}
